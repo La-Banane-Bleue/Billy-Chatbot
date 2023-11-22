@@ -1,0 +1,3 @@
+yo:yo
+qui est ton créateur ?:Chat GPT
+bonjour:bonjour
