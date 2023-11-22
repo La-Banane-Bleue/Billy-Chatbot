@@ -1,0 +1,27 @@
+yo:yo
+qui est ton créateur ?:Chat GPT
+bonjour:bonjour
+salut:salut
+comment ça va ?: Je vais bien, et toi ?
+merci: De rien !
+au revoir: À bientôt !
+bienvenue: Merci !
+s'il vous plaît: Bien sûr !
+excusez-moi: Pas de problème !
+pardon: Aucun souci !
+génial: C'est génial !
+super: Merci
+cool: Ouais, c'est cool !
+okay: D'accord !
+merveilleux: C'est merveilleux !
+fantastique: Absolument fantastique !
+bien sûr: Bien sûr, aucun problème !
+parfait: Parfait !
+ça va: Ça va bien, merci !
+oh: Oh, vraiment ?
+vraiment: Vraiment !
+blague:Ah, tu veux une blague ? Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tombent toujours dans le bateau !
+s'il te plait:Je ne sais pas répondre à cela.
+ça fait quoi si je te demande une blague ?:Ah, tu veux une blague ? Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tombent toujours dans le bateau !
+fasrhtruztjzhtsru5srzt:Je ne sais pas répondre à cela.
+blaque:Je ne sais pas répondre à cela.

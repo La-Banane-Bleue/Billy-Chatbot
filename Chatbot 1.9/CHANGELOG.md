@@ -1,0 +1,1 @@
+-Possibilité de changer le nom du chatbot dans les paramètres
