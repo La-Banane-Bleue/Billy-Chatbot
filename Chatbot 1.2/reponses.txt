@@ -1,0 +1,5 @@
+yo:yo
+qui est ton créateur ?:Chat GPT
+bonjour:Bonjour
+salut:salut
+comment ça va ?:Je vais bien, et toi ?
